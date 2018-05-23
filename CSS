@@ -1,0 +1,25 @@
+body {
+  background-color: #ffffff;
+}
+h1 {
+  margin: 60px;
+  font-weight: bold;
+  color: #e68a00;
+}
+h2 {
+  margin: 60px;
+  color: #b35900;
+  font-style: oblique;
+}
+h3 {
+  margin: 30px;
+}
+.center{
+    width:600px;
+    margin:0 auto;
+    text-align:left;
+}
+.imageBorder {
+  border-width:5px;
+  border-color:black;
+}
